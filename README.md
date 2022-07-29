@@ -6,12 +6,12 @@
 
 -------------------------------------------------------------------------------------------
 
-## Qui sommes nous ?
+## Qui sommes-nous ?
 
 #### France - Organisme de Projet en Groupe®©
- -  Un groupe de Bénévol
- -  Qui réaliste des projets gratuit
- -  Alors vennez avec nous ! 
+ -  Un groupe de bénévole
+ -  Qui réaliste des projets gratuits
+ -  Alors venez avec nous !
 
 ## Nos site internet :
  -  France-OPG : https://france-opg.tk
