@@ -1,7 +1,7 @@
 # France-OPG
 
 <div align="center">
-  <img src="./France-OPG-2.png"  alt="powerm1nt banner"/>
+  <img src="./France-OPG-2.png"  alt="banner"/>
 </div>
 
 -------------------------------------------------------------------------------------------
@@ -14,9 +14,9 @@
  -  Alors venez avec nous !
 
 ## Nos sites internet :
- -  France-OPG : https://france-opg.tk
- -  ResPinGuy : https://respinguy.tk
- -  Chineur-Agglo-Boulonais : https://chineur-agglo-boulonnais.tk
+ -  France-OPG : https://fopg.fr
+ -  ResPinGuy : https://respinguy.fopg.fr
+ -  Chineur-Agglo-Boulonais : https://chineur-agglo-boulonnais.fopg.fr
  
 -------------------------------------------------------------------------------------------
 <!--
