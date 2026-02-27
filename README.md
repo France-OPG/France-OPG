@@ -35,6 +35,24 @@
   🔹 <strong><a href="https://chineur-agglo-boulonnais.fopg.fr">Chineur Agglo Boulonnais</a></strong>
 </p>
 
+-----------------------------------------
+<p align="center">
+  <img src="https://fopg.fr/logo-img-theme/logo/France-OPG-2.png" alt="France-OPG Logo" width="16" style="vertical-align:middle;"> 
+  <strong><a href="https://fopg.fr">France-OPG</a></strong>
+</p>
+
+<p align="center">
+  <img src="https://respinguy.fopg.fr/logo-img-theme/logo/ResPinGuy-BF.png" alt="ResPinGuy Logo" width="16" style="vertical-align:middle;"> 
+  <strong><a href="https://respinguy.fopg.fr">ResPinGuy</a></strong>
+</p>
+
+<p align="center">
+  <img src="https://chineur-agglo-boulonnais.fopg.fr/img/Chineur-AB.png" alt="Chineur Logo" width="16" style="vertical-align:middle;"> 
+  <strong><a href="https://chineur-agglo-boulonnais.fopg.fr">Chineur Agglo Boulonnais</a></strong>
+</p>
+-------------------------------------------
+
+
 <hr>
 
 <p align="center">
