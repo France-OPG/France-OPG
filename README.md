@@ -24,24 +24,15 @@
 <h2 align="center">🌐 Nos sites internet</h2>
 
 <p align="center">
-  🔹 <strong>France-OPG</strong><br>
-  <a href="https://fopg.fr">https://fopg.fr</a>
+  🔹 <strong><a href="https://fopg.fr">France-OPG</a></strong>
 </p>
 
-<br>
-
 <p align="center">
-  🔹 <strong>ResPinGuy</strong><br>
-  <a href="https://respinguy.fopg.fr">https://respinguy.fopg.fr</a>
+  🔹 <strong><a href="https://respinguy.fopg.fr">ResPinGuy</a></strong>
 </p>
 
-<br>
-
 <p align="center">
-  🔹 <strong>Chineur Agglo Boulonnais</strong><br>
-  <a href="https://chineur-agglo-boulonnais.fopg.fr">
-    https://chineur-agglo-boulonnais.fopg.fr
-  </a>
+  🔹 <strong><a href="https://chineur-agglo-boulonnais.fopg.fr">Chineur Agglo Boulonnais</a></strong>
 </p>
 
 <hr>
