@@ -23,6 +23,8 @@
 <hr>
 
 <h2 align="center">🌐 Nos sites internet</h2>
+  &nbsp;
+  <img src="https://img.shields.io/website?down_color=red&up_color=brightgreen&url=https://fopg.fr" alt="Statut France-OPG" style="vertical-align:middle;">
 
 <p align="center">
   <img src="https://fopg.fr/logo-img-theme/logo/France-OPG-2.png" alt="France-OPG Logo" width="16" style="vertical-align:middle;"> 
