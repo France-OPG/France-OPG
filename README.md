@@ -1,7 +1,5 @@
-<h1 align="center">🇫🇷 France-OPG</h1>
-
 <hr>
-
+<h1 align="center">France-OPG</h1>
 <h2 align="center">👥 Qui sommes-nous ?</h2>
 
 <div align="center">
