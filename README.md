@@ -1,9 +1,5 @@
 <h1 align="center">🇫🇷 France-OPG</h1>
 
-<p align="center">
-  <img src="./France-OPG-2.png" alt="France-OPG Banner" width="700">
-</p>
-
 <hr>
 
 <h2 align="center">👥 Qui sommes-nous ?</h2>
