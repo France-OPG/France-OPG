@@ -1,35 +1,54 @@
-# France-OPG
+<h1 align="center">🇫🇷 France-OPG</h1>
 
-<div align="center">
-  <img src="./France-OPG-2.png"  alt="banner"/>
-</div>
+<p align="center">
+  <img src="./France-OPG-2.png" alt="France-OPG Banner" width="800">
+</p>
 
--------------------------------------------------------------------------------------------
+<hr>
 
-## Qui sommes-nous ?
+<h2 align="center">👥 Qui sommes-nous ?</h2>
 
-#### France - Organisme de Projet en Groupe®©
- -  Un groupe de bénévole
- -  Qui réaliste des projets gratuits
- -  Alors venez avec nous !
+<p align="center">
+  <strong>France – Organisme de Projet en Groupe®©</strong>
+</p>
 
-## Nos sites internet :
- -  France-OPG : https://fopg.fr
- -  ResPinGuy : https://respinguy.fopg.fr
- -  Chineur-Agglo-Boulonais : https://chineur-agglo-boulonnais.fopg.fr
- 
--------------------------------------------------------------------------------------------
-<!--
-**France-OPG/France-OPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Nous sommes un groupe de bénévoles passionnés<br>
+  qui réalisent des projets gratuits et accessibles à tous.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Vous souhaitez participer ?<br>
+  Rejoignez-nous !
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h2 align="center">🌐 Nos sites internet</h2>
+
+<p align="center">
+  🔹 <strong>France-OPG</strong><br>
+  <a href="https://fopg.fr" target="_blank">https://fopg.fr</a>
+</p>
+
+<br>
+
+<p align="center">
+  🔹 <strong>ResPinGuy</strong><br>
+  <a href="https://respinguy.fopg.fr" target="_blank">https://respinguy.fopg.fr</a>
+</p>
+
+<br>
+
+<p align="center">
+  🔹 <strong>Chineur Agglo Boulonnais</strong><br>
+  <a href="https://chineur-agglo-boulonnais.fopg.fr" target="_blank">
+    https://chineur-agglo-boulonnais.fopg.fr
+  </a>
+</p>
+
+<hr>
+
+<p align="center">
+  © 2026 France-OPG — Tous droits réservés
+</p>
