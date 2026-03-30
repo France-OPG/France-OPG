@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://chineur-agglo-boulonnais.fopg.fr/img/Chineur-AB.png" alt="Chineur Logo" width="16" style="vertical-align:middle;"> 
+  <img src="https://chineur-agglo-boulonnais.fopg.fr/Logo/Chineur-AB.png" alt="Chineur Logo" width="16" style="vertical-align:middle;"> 
   <strong><a href="https://chineur-agglo-boulonnais.fopg.fr">Chineur Agglo Boulonnais</a></strong>
 </p>
 
